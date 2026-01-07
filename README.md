@@ -17,6 +17,8 @@ Department of Naval Architecture and Marine Engineering
 | **Semester** | 2025-2026 Fall |
 | **Instructor** | Dr. Deniz Bayraktar Bural |
 
+> **Note**: Since the course is taught in Turkish, some figure outputs contain Turkish labels and annotations.
+
 ## Project Overview
 
 This repository contains Python scripts developed for the **Ship and Marine Structures Hydrodynamics** course assignment. The analysis examines vessel seakeeping performance under irregular sea conditions using:
